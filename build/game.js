@@ -3,7 +3,7 @@
 
 var game = new Phaser.Game(800, 600, Phaser.Canvas, 'phaser-example', { preload: preload, create: create });
 
-var GEM_SIZE = 68;
+var GEM_SIZE = 66;
 var GEM_SPACING = 2;
 var GEM_SIZE_SPACED = GEM_SIZE + GEM_SPACING;
 var BOARD_COLS;
